@@ -1,0 +1,39 @@
+.photos{
+    width: 100%;
+    height: 500px;
+    
+}
+.II{
+    width: 90%;
+        height: 400px;
+   
+   margin-left: 80px;
+   position: relative;
+   top:50px;
+    
+}
+.a{
+    width: 23%;
+    height: 75%;
+    
+    float: left;
+    margin-left: 18px;
+    margin-top: 50px;
+}
+.i{
+    width: 250px;
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.p{
+    font-size: 25px;
+    height: 30px;
+    padding-left: 87px;
+}
+.p1{
+    font-size: 18px;
+    width: 70%;
+    padding-left: 57px;
+   
+}
